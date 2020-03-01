@@ -6,3 +6,5 @@ U - Update
 D - Delete
 
 The technologies used in this application are HTML, Bootstrap, PHP.
+
+Further updations will be implemented.
